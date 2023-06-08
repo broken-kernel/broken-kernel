@@ -15,7 +15,7 @@
 <p aling= "center">
   <a href = "https://github.com/broken-kernel">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=broken-kernel&show_icons=true&theme=transparent&count_private=true" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=broken-kernel&layout=compact&theme=transparent"]/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=broken-kernel&layout=compact&theme=transparent"]/>
   </a>
 </p>
 
